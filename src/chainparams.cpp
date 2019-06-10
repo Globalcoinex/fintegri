@@ -108,7 +108,7 @@ public:
         nMinerThreads = 0;
         nTargetTimespan = 1 * 60; // Fint: 1 day
         nTargetSpacing = 1 * 60;  // Fint: 1 minute
-        nLastPOWBlock = 200;
+        nLastPOWBlock = 205;
         nMaturity = 20;
         nMasternodeCountDrift = 20;
         nMasternodeCollateralLimit = 10000;
